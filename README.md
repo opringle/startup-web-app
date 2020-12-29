@@ -1,6 +1,6 @@
 # Startup Web App
 
-A generic web application to learning frameworks and test startup ideas.
+Serverless web application to test startup ideas.
 
 ## Prerequisites
 
@@ -18,6 +18,12 @@ A generic web application to learning frameworks and test startup ideas.
 ```bash
     npm install firebase-tools -g
     npm install vue-cli -g
+```
+
+## Test locally
+
+```bash
+    firebase serve
 ```
 
 ## Deploy
